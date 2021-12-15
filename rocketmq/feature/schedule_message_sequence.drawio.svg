@@ -1,0 +1,72 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="761px" height="301px" viewBox="-0.5 -0.5 761 301" content="&lt;mxfile&gt;&lt;diagram id=&quot;pylqyBqOnhcFGKxf7I3H&quot; name=&quot;Page-1&quot;&gt;5ZZNc5swEIZ/DXdABTtXE7c9JDNtOfSswAY0IxCzLMbur+/KiK/iZDLTTC45efVIy0rvuwJ7IqnO31A25aPJQXuhn589ce+FYRAHAf9YchnIXbwbQIEqd4tmkKo/4KDvaKdyaFcLyRhNqlnDzNQ1ZLRiEtH062XPRq+rNrKADUgzqbf0t8qpHOg+8mf+HVRRjpUD381UclzsQFvK3PQLJI6eSNAYGqLqnIC24o26DHlfX5idNoZQ01sSxJBwkrpzZ0tMVSl6MIXbIF3GU/NeGxt2lX5Qz6BVzaNDA6gqIECe0Q7/mNmhLxVB2sjMpvbcD8xKqjSPAg7ZIpKcgtNYa9m06ula1WeCkHXYqhP8gnboBEtNR7ZSMjlsoTsMIMH5RUGCSWbuTzC8T7zwEpcQO2NcZwo37GebJzPLhcVihNK1VjE9eVafA2fAbTOijRkbDxbKNUbVdK0WHbzo/h8rDFJpClNLvTTjTQKJVwX6Eq0E2t0SaKvP/h3k2W/UgJyvpRvOBz7OdNlpQ7ZNef3kXMF0mMHKE5JYAC3QVh8ELYnbdP22+Y/z3t24m3XbVfCzAyaf8nqKeN1+H3o/x8ZeOJJmJeSdhkdoW/vRCGPNFQ9PyFFhoxTwpLJP6tYu/Li3KQ/nz+Z1bvHnQxz/Ag==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <path d="M 50 40 L 50 300" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 20px; margin-left: 1px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                CommitLog
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="50" y="24" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    CommitLog
+                </text>
+            </switch>
+        </g>
+        <rect x="45" y="70" width="10" height="80" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <path d="M 55 100 L 65 100 Q 75 100 75 110 L 75 115 Q 75 120 68.18 120 L 61.37 120" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 56.12 120 L 63.12 116.5 L 61.37 120 L 63.12 123.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="305" y="0" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <path d="M 355 40 L 355 300" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 20px; margin-left: 306px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                ConsumeQueue
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="355" y="24" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    ConsumeQueue
+                </text>
+            </switch>
+        </g>
+        <rect x="660" y="0" width="100" height="40" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <path d="M 710 40 L 710 300" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 20px; margin-left: 661px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                ScheduleMessage
+                                <br/>
+                                Service
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="710" y="24" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    ScheduleMessage...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
